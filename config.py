@@ -1,4 +1,4 @@
-import sqlite3
+#import sqlite3
 
 TOKEN = "1060305984:AAF_XAXey0817qcI95VRSWdvfPbQze29Q2Y"
 APP_URL = " https://kazinobot221.herokuapp.com/" + TOKEN
