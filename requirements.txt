@@ -1,3 +1,2 @@
 aiogram
-db-sqlite3
 time
